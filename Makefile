@@ -12,6 +12,8 @@ linux:
 
 macos:
 	cp ../../workspace/yavipin/pkg/neoip-webpack_*.dmg .
+	cp ../../workspace/yavipin/pkg/neoip-webpack_*.dmg neoip-webpack_latest.dmg
 
 win32:
 	cp ../../workspace/yavipin/pkg/neoip-webpack-*.exe .
+	cp ../../workspace/yavipin/pkg/neoip-webpack-*.exe neoip-webpack-latest.exe
